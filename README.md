@@ -1,4 +1,4 @@
-# 🚀 Microservices dengan Golang - Panduan Lengkap
+# 🚀 Microservices dengan Golang - [UNFINISHED]
 
 Selamat datang di koleksi lengkap contoh kode microservices menggunakan Golang! Repository ini dirancang untuk membantu Anda mempelajari arsitektur microservices dari dasar hingga tingkat lanjut dengan pendekatan yang praktis dan mudah dipahami.
 
